@@ -4,6 +4,8 @@
 # Ignorar archivos de índice de contenido del directorio .vs/
 .vs/*/FileContentIndex/*.vsidx
 
-# Ignorar archivos de caché de IntelliSense del directorio .vs/
+# Ignorar archivos de caché de IntelliSense del directorio .vs/*
 .vs/*/v16/.suo
 .vs/*/FileContentIndex/*.vsidx
+
+packages/*
