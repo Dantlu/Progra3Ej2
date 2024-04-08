@@ -11,7 +11,7 @@
         <asp:Label ID="lblIngrese1" runat="server" Text="Ingrese nombre del producto: "></asp:Label>
 &nbsp;&nbsp;&nbsp;
         <asp:TextBox ID="txtIngrese1" runat="server"></asp:TextBox>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cantidad:<asp:TextBox ID="txtCantidad1" runat="server" style="margin-left: 20px" Width="184px"></asp:TextBox>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cantidad:<asp:TextBox ID="txtCantidad1" runat="server" Height="29px" style="margin-left: 20px" Width="184px"></asp:TextBox>
         <br />
         <br />
         Ingrese nombre del producto:&nbsp;&nbsp;&nbsp;
