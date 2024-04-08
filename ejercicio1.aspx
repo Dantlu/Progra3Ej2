@@ -11,6 +11,10 @@
         <asp:Label ID="lblIngrese1" runat="server" Text="Ingrese nombre del producto: "></asp:Label>
 &nbsp;&nbsp;&nbsp;
         <asp:TextBox ID="txtIngrese1" runat="server"></asp:TextBox>
+        <br />
+        <br />
+        Ingrese nombre del producto:&nbsp;&nbsp;&nbsp;
+        <asp:TextBox ID="txtIngrese2" runat="server"></asp:TextBox>
     </form>
 </body>
 </html>
