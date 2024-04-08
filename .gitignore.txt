@@ -6,3 +6,4 @@
 
 # Ignorar archivos de caché de IntelliSense del directorio .vs/
 .vs/*/v16/.suo
+.vs/*/FileContentIndex/*.vsidx
