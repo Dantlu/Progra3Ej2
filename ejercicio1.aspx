@@ -20,6 +20,10 @@
         <asp:Button
             runat="server" Text="Generar Tabla" OnClick="btnGenerarTabla_Click"></asp:Button>
 
+        <br />
+        <br />
+        <asp:Label ID="lblTabla" runat="server"></asp:Label>
+
     </form>
 </body>
 </html>
