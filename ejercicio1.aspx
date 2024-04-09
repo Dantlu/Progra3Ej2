@@ -17,6 +17,8 @@
         <asp:TextBox ID="txtIngrese2" runat="server" Width="180px"></asp:TextBox>
         <br />
         <br />
+        <asp:Button
+            runat="server" Text="Generar Tabla" OnClick="btnGenerarTabla_Click"></asp:Button>
 
     </form>
 </body>
