@@ -24,6 +24,10 @@
         <br />
         <asp:Label ID="lblTabla" runat="server"></asp:Label>
 
+        <br />
+        <br />
+        <asp:Label ID="lblaviso" runat="server"></asp:Label>
+
     </form>
 </body>
 </html>
