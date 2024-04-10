@@ -8,13 +8,15 @@
 </head>
 
 <body>
-    <form id="form1" runat="server" style="width: 800px; height: 600px">Ingrese nombre del producto:    <asp:TextBox ID="txtIngrese1" runat="server"></asp:TextBox>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cantidad:<asp:TextBox ID="txtCantidad1"
-            runat="server" Height="29px" Style="margin-left: 20px" Width="184px"></asp:TextBox>
+    <form id="form1" runat="server" style="width: 800px; height: 600px">Ingrese nombre del producto:    <asp:TextBox ID="txtIngrese1" runat="server" Width="180px"></asp:TextBox>
+        &nbsp;&nbsp;&nbsp; Cantidad:<asp:TextBox ID="txtCantidad1"
+            runat="server" Height="29px" Style="margin-left: 20px" Width="180px"></asp:TextBox>
         <br />
         <br />
         Ingrese nombre del producto:&nbsp;&nbsp;&nbsp;
         <asp:TextBox ID="txtIngrese2" runat="server" Width="180px"></asp:TextBox>
+        &nbsp;&nbsp;&nbsp; Cantidad:&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:TextBox ID="txtCantidad2" runat="server" Height="29px" Width="180px"></asp:TextBox>
         <br />
         <br />
         <asp:Button

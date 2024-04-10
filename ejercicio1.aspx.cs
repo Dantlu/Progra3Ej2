@@ -24,8 +24,8 @@ namespace PR3_TP2
                 tabla += "</tr>";
 
                 tabla += "<tr>";
-                tabla += "<td>" + "</td>";
-                tabla += "<td>" + "</td>";
+                tabla += "<td>" + txtIngrese2.Text + "</td>";
+                tabla += "<td>" + txtCantidad2.Text + "</td>";
                 tabla += "</tr>";
                 tabla += "<tr>";
                 tabla += "<td>" + "</td>";
