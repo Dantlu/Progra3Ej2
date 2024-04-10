@@ -1,11 +1,40 @@
-# Ignorar directorio .vs/
 .vs/
-
-# Ignorar archivos de índice de contenido del directorio .vs/
 .vs/*/FileContentIndex/*.vsidx
-
-# Ignorar archivos de caché de IntelliSense del directorio .vs/*
+.vs/*
 .vs/*/v16/.suo
 .vs/*/FileContentIndex/*.vsidx
 
 packages/*
+
+*.suo
+*.backup
+*.user
+*.dbmdl
+*.pptx
+*.psess
+*.orig
+*.xml
+*.~vsd
+*.zip
+*.sublime-project
+*.sublime-workspace
+*.exe
+*.avi
+*.mp4
+*.mov
+*.rar
+*.mdf
+*.ldf
+**/nuspec.list
+**/packages/
+**/.sass-cache/
+**/node_modules/
+**/bower_components/
+*/Performance/*TestResults.txt
+**/bin
+**/obj
+**/*.log.1
+**/*.log.*
+*.log
+*.db
+Publish/
