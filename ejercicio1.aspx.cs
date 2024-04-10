@@ -20,8 +20,6 @@ namespace PR3_TP2
                 int cantidad2 = Convert.ToInt32(txtCantidad2.Text);
                 int total = cantidad1 + cantidad2;
 
-                lblaviso.Text = "";
-
                 string tabla = "<table border='1'>";
                 tabla += "<tr> <td><b>Producto</b></td> <td><b>Cantidad</b></td> </tr>";
                 tabla += "<tr>";
