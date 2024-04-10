@@ -16,6 +16,12 @@ namespace PR3_TP2
             {
                 lblaviso.Text = "";
 
+                int cantidad1 = Convert.ToInt32(txtCantidad1.Text);
+                int cantidad2 = Convert.ToInt32(txtCantidad2.Text);
+                int total = cantidad1 + cantidad2;
+
+                lblaviso.Text = "";
+
                 string tabla = "<table border='1'>";
                 tabla += "<tr> <td><b>Producto</b></td> <td><b>Cantidad</b></td> </tr>";
                 tabla += "<tr>";
@@ -28,8 +34,8 @@ namespace PR3_TP2
                 tabla += "<td>" + txtCantidad2.Text + "</td>";
                 tabla += "</tr>";
                 tabla += "<tr>";
-                tabla += "<td>" + "</td>";
-                tabla += "<td>" + "</td>";
+                tabla += "<td>" + "TOTAL" + "</td>";
+                tabla += "<td>" + total.ToString() + "</td>";
                 tabla += "</tr>";
                 tabla += "</table>";
                 lblTabla.Text = tabla;
