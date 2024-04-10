@@ -25,6 +25,20 @@
                 <asp:ListItem Value="zona sur">Boedo</asp:ListItem>
             </asp:DropDownList>
         </p>
+
+        <asp:Label runat="server" Text="Temas:" ID="ctl00"></asp:Label>
+        <table>
+            <tr>
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+                <td>
+                    <asp:CheckBoxList runat="server">
+                        <asp:ListItem Text="Ciencias" CssClass="checkbox-item"></asp:ListItem>
+                        <asp:ListItem Text="Literatura" CssClass="checkbox-item"></asp:ListItem>
+                        <asp:ListItem Text="Historia" CssClass="checkbox-item"></asp:ListItem>
+                    </asp:CheckBoxList>
+                </td>
+            </tr>
+        </table>
     </form>
 </body>
 </html>

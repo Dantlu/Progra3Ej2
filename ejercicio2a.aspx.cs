@@ -14,6 +14,14 @@ namespace PR3_TP2
 
 		}
 
-      
+        protected void Unnamed2_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void Unnamed1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
