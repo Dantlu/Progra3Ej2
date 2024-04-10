@@ -10,12 +10,20 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Nombre:&nbsp;
+            Nombre:&nbsp;&nbsp;
             <asp:TextBox ID="txtNombre" runat="server"></asp:TextBox>
         </div>
         <p>
             Apellido:&nbsp;
             <asp:TextBox ID="txtApellido" runat="server"></asp:TextBox>
+        </p>
+        <p>
+            Ciudad:&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:DropDownList ID="drpCiudad" runat="server">
+                <asp:ListItem Value="zona norte">Gral. Pacheco</asp:ListItem>
+                <asp:ListItem Value="zona oeste">San Miguel</asp:ListItem>
+                <asp:ListItem Value="zona sur">Boedo</asp:ListItem>
+            </asp:DropDownList>
         </p>
     </form>
 </body>
