@@ -13,5 +13,10 @@ namespace PR3_TP2
         {
 
         }
+
+        protected void LinkButton1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
