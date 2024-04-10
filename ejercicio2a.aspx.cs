@@ -7,11 +7,13 @@ using System.Web.UI.WebControls;
 
 namespace PR3_TP2
 {
-    public partial class ejercicio2a : System.Web.UI.Page
-    {
-        protected void Page_Load(object sender, EventArgs e)
-        {
+	public partial class ejercicio2a : System.Web.UI.Page
+	{
+		protected void Page_Load(object sender, EventArgs e)
+		{
 
-        }
+		}
+
+      
     }
 }
