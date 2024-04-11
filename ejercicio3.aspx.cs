@@ -23,5 +23,10 @@ namespace PR3_TP2
         {
             lblTextoColoreado.ForeColor = System.Drawing.Color.Red;
         }
+
+        protected void lkbAzul_Click(object sender, EventArgs e)
+        {
+            lblTextoColoreado.ForeColor = System.Drawing.Color.Blue;
+        }
     }
 }

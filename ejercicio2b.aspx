@@ -8,6 +8,14 @@
     <title></title>
 </head>
 <body>
+    <form id="form1" runat="server">
     <p style="font-family: Arial; font-size: 50px;"><strong>Resumen</strong></p>
+    <p style="font-family: Arial; font-size: 50px">
+        &nbsp;</p>
+    <p style="font-family: 'Times New Roman'; font-size: 20px">
+        Nombre:&nbsp;
+        <asp:Label ID="lblNombre" runat="server"></asp:Label>
+    </p>
+    </form>
 </body>
 </html>

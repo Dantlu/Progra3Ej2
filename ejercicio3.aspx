@@ -12,7 +12,7 @@
         <div>
             <asp:LinkButton ID="lkbRojo" runat="server" OnClick="lkbRojo_Click">Rojo</asp:LinkButton>
             <br />
-            <asp:LinkButton ID="lkbAzul" runat="server">Azul</asp:LinkButton>
+            <asp:LinkButton ID="lkbAzul" runat="server" OnClick="lkbAzul_Click">Azul</asp:LinkButton>
             <br />
             <asp:LinkButton ID="lkbVerde" runat="server">Verde</asp:LinkButton>
         </div>
