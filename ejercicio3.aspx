@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:LinkButton ID="lkbRojo" runat="server">Rojo</asp:LinkButton>
+            <asp:LinkButton ID="lkbRojo" runat="server" OnClick="lkbRojo_Click">Rojo</asp:LinkButton>
             <br />
             <asp:LinkButton ID="lkbAzul" runat="server">Azul</asp:LinkButton>
             <br />

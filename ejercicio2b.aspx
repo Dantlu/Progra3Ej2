@@ -8,9 +8,6 @@
     <title></title>
 </head>
 <body>
-    <form id="form2" runat="server">
-        <div>
-        </div>
-    </form>
+    <p style="font-family: Arial; font-size: 50px;"><strong>Resumen</strong></p>
 </body>
 </html>
