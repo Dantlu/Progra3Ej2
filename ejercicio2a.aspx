@@ -26,7 +26,7 @@
             </asp:DropDownList>
         </p>
 
-        <asp:Label runat="server" Text="Temas:" ID="ctl00"></asp:Label>
+        <asp:Label runat="server" Text="Temas:" ID="lblTemas"></asp:Label>
         <table>
             <tr>
                 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
@@ -39,6 +39,9 @@
                 </td>
             </tr>
         </table>
+        <p style="margin-left: 80px">
+            <asp:Button ID="btnVerResumen" runat="server" Height="20px" OnClick="btnVerResumen_Click" Text="Ver resumen" Width="140px" />
+        </p>
     </form>
 </body>
 </html>

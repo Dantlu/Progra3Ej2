@@ -23,5 +23,10 @@ namespace PR3_TP2
         {
 
         }
+
+        protected void btnVerResumen_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("ejercicio2b.aspx");
+        }
     }
 }
