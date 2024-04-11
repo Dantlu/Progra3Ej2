@@ -16,6 +16,11 @@
             <br />
             <asp:LinkButton ID="lkbVerde" runat="server">Verde</asp:LinkButton>
         </div>
+        <p>
+            &nbsp;</p>
+        <p>
+            <asp:Label ID="lblTextoColoreado" runat="server" Text="Texto coloreado"></asp:Label>
+        </p>
     </form>
 </body>
 </html>
