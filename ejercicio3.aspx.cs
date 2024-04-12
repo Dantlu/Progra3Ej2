@@ -28,6 +28,10 @@ namespace PR3_TP2
         {
             lblTextoColoreado.ForeColor = System.Drawing.Color.Blue;
         }
+        protected void lkbVerde_Click(object sender, EventArgs e)
+        {
+            lblTextoColoreado.ForeColor = System.Drawing.Color.Green;
+        }
 
         protected void lkbNegrita_Click(object sender, EventArgs e)
         {
@@ -53,5 +57,6 @@ namespace PR3_TP2
                 lblTextoColoreado.Font.Italic = true;
             }
         }
+
     }
 }
