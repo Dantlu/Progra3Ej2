@@ -21,7 +21,11 @@ namespace PR3_TP2
             Apellido = Request["txtApellido"].ToString();
             lblApellido.Text = Apellido;
 
+            
 
+            string zona;
+            zona = Request["drpCiudad"].ToString();
+            lblZona.Text = zona;
         }
     }
 }

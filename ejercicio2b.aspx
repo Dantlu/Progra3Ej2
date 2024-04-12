@@ -12,13 +12,16 @@
     <p style="font-family: Arial; font-size: 50px;"><strong>Resumen</strong></p>
     <p style="font-family: Arial; font-size: 50px">
         &nbsp;</p>
-    <p style="font-family: 'Times New Roman'; font-size: 20px">
-        Nombre:&nbsp;
+        <p style="font-family: 'Times New Roman'; font-size: 20px">
+        Nombre:&nbsp;&nbsp;
         <asp:Label ID="lblNombre" runat="server"></asp:Label>
     </p>
         <p style="font-family: 'Times New Roman'; font-size: 20px">
-            Apellido:&nbsp;
-            <asp:Label ID="lblApellido" runat="server"></asp:Label>
+            Apellido:&nbsp; <asp:Label ID="lblApellido" runat="server"></asp:Label>
+        </p>
+        <p style="font-family: 'Times New Roman'; font-size: 20px">
+            Zona:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Label ID="lblZona" runat="server"></asp:Label>
         </p>
     </form>
 </body>

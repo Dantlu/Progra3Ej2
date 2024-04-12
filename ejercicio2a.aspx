@@ -20,9 +20,9 @@
         <p>
             Ciudad:&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:DropDownList ID="drpCiudad" runat="server">
-                <asp:ListItem Value="zona norte">Gral. Pacheco</asp:ListItem>
-                <asp:ListItem Value="zona oeste">San Miguel</asp:ListItem>
-                <asp:ListItem Value="zona sur">Boedo</asp:ListItem>
+                <asp:ListItem Value="norte">Gral. Pacheco</asp:ListItem>
+                <asp:ListItem Value="oeste">San Miguel</asp:ListItem>
+                <asp:ListItem Value="sur">Boedo</asp:ListItem>
             </asp:DropDownList>
         </p>
 

@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|c:\\users\\mega\\desktop\\github\\utn\\utn-tusi\\utn\\1cuatrimestre\\lab3-utn-frgp\\programacion3tp2\\progra3ej2\\ejercicio3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|c:\\users\\mega\\desktop\\github\\utn\\utn-tusi\\utn\\1cuatrimestre\\lab3-utn-frgp\\programacion3tp2\\progra3ej2\\ejercicio2b.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio2b.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio2b.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -15,8 +11,16 @@
       "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio2a.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|c:\\users\\mega\\desktop\\github\\utn\\utn-tusi\\utn\\1cuatrimestre\\lab3-utn-frgp\\programacion3tp2\\progra3ej2\\ejercicio2b.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio2b.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio2a.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio2a.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|c:\\users\\mega\\desktop\\github\\utn\\utn-tusi\\utn\\1cuatrimestre\\lab3-utn-frgp\\programacion3tp2\\progra3ej2\\ejercicio3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio3.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ejercicio3.aspx",
               "DocumentMoniker": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio3.aspx",
               "RelativeDocumentMoniker": "ejercicio3.aspx",
@@ -43,28 +47,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ejercicio2b.aspx",
               "DocumentMoniker": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio2b.aspx",
               "RelativeDocumentMoniker": "ejercicio2b.aspx",
               "ToolTip": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio2b.aspx",
               "RelativeToolTip": "ejercicio2b.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-04-11T18:43:49.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ejercicio2a.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio2a.aspx.cs",
-              "RelativeDocumentMoniker": "ejercicio2a.aspx.cs",
-              "ToolTip": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio2a.aspx.cs",
-              "RelativeToolTip": "ejercicio2a.aspx.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAcwB8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T18:41:53.815Z",
               "EditorCaption": ""
             },
             {
@@ -78,6 +69,32 @@
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-04-11T18:37:31.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ejercicio2b.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio2b.aspx.cs",
+              "RelativeDocumentMoniker": "ejercicio2b.aspx.cs",
+              "ToolTip": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio2b.aspx.cs",
+              "RelativeToolTip": "ejercicio2b.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:28:13.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ejercicio2a.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio2a.aspx.cs",
+              "RelativeDocumentMoniker": "ejercicio2a.aspx.cs",
+              "ToolTip": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio2a.aspx.cs",
+              "RelativeToolTip": "ejercicio2a.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T18:41:53.815Z",
               "EditorCaption": ""
             }
           ]
