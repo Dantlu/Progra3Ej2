@@ -16,6 +16,12 @@ namespace PR3_TP2
             string Nombre;
             Nombre = Request["txtNombre"].ToString();
             lblNombre.Text = Nombre;
+
+            string Apellido;
+            Apellido = Request["txtApellido"].ToString();
+            lblApellido.Text = Apellido;
+
+
         }
     }
 }

@@ -16,6 +16,10 @@
         Nombre:&nbsp;
         <asp:Label ID="lblNombre" runat="server"></asp:Label>
     </p>
+        <p style="font-family: 'Times New Roman'; font-size: 20px">
+            Apellido:&nbsp;
+            <asp:Label ID="lblApellido" runat="server"></asp:Label>
+        </p>
     </form>
 </body>
 </html>
