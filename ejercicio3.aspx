@@ -14,7 +14,9 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:LinkButton ID="lkbNegrita" runat="server" BackColor="Black" BorderColor="White" ForeColor="White" OnClick="lkbNegrita_Click" Font-Overline="False">N</asp:LinkButton>
 &nbsp;
-            <asp:LinkButton ID="lkbCursiva" runat="server" BackColor="#0066FF" Font-Bold="False" Font-Italic="True" Font-Overline="False" ForeColor="White" OnClick="lkbCursiva_Click">S</asp:LinkButton>
+            <asp:LinkButton ID="lkbCursiva" runat="server" BackColor="#0066FF" Font-Bold="False" Font-Italic="True" Font-Overline="False" ForeColor="White" OnClick="lkbCursiva_Click">C</asp:LinkButton>
+&nbsp;            
+            <asp:LinkButton ID="lkbSubrayado" runat="server" BackColor="#FF99FF" Font-Bold="False" Font-Italic="False" Font-Overline="False" Font-Underline="True" ForeColor="Black" OnClick="lkbSubrayado_Click">S</asp:LinkButton>
             <br />
             <asp:LinkButton ID="lkbAzul" runat="server" OnClick="lkbAzul_Click">Azul</asp:LinkButton>
             <br />

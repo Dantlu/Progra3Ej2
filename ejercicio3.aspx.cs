@@ -58,5 +58,17 @@ namespace PR3_TP2
             }
         }
 
+        protected void lkbSubrayado_Click(object sender, EventArgs e)
+        {
+            if (lblTextoColoreado.Font.Underline)
+            {
+                lblTextoColoreado.Font.Underline = false;
+
+            }
+            else
+            {
+                lblTextoColoreado.Font.Underline = true;
+            }
+        }
     }
 }
