@@ -28,10 +28,11 @@
 
         <asp:Label runat="server" Text="Temas:" ID="lblTemas"></asp:Label>
         <table>
-            <tr>
-                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            <tr id="Temas">
+                <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                </td>
                 <td>
-                    <asp:CheckBoxList runat="server">
+                    <asp:CheckBoxList runat="server" ID="checkTemas_ejercicio2a">
                         <asp:ListItem Text="Ciencias" CssClass="checkbox-item"></asp:ListItem>
                         <asp:ListItem Text="Literatura" CssClass="checkbox-item"></asp:ListItem>
                         <asp:ListItem Text="Historia" CssClass="checkbox-item"></asp:ListItem>

@@ -23,6 +23,10 @@
             Zona:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <asp:Label ID="lblZona" runat="server"></asp:Label>
         </p>
+        <p style="font-family: 'Times New Roman'; font-size: 20px">
+            Los temas elegidos son:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <asp:Label ID="lblTemascheck" runat="server"></asp:Label>
+        </p>
     </form>
 </body>
 </html>

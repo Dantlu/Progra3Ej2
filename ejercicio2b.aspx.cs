@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.SqlTypes;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -21,11 +22,25 @@ namespace PR3_TP2
             Apellido = Request["txtApellido"].ToString();
             lblApellido.Text = Apellido;
 
-            
-
             string zona;
             zona = Request["drpCiudad"].ToString();
             lblZona.Text = zona;
+
+            if (!IsPostBack)
+            {
+                List<string> temasSeleccionados = (List<string>)Session["TemasSeleccionados"];
+
+                if (temasSeleccionados != null )
+                {
+                    string temas = string.Join(", ", temasSeleccionados);
+                    lblTemascheck.Text = temas;
+                }
+                else
+                {
+                    lblTemascheck.Text = "No se han seleccionado temas.";
+                }
+            }
+
         }
     }
 }

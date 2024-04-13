@@ -26,6 +26,18 @@ namespace PR3_TP2
 
         protected void btnVerResumen_Click(object sender, EventArgs e)
         {
+            List<string> temasSeleccionados = new List<string>();
+
+            foreach (ListItem item in checkTemas_ejercicio2a.Items)
+            {
+                if (item.Selected)
+                {
+                    temasSeleccionados.Add(item.Text);
+                }
+            }
+
+            Session["TemasSeleccionados"] = temasSeleccionados;
+
             Server.Transfer("ejercicio2b.aspx");
         }
     }
