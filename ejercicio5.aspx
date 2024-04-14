@@ -10,7 +10,16 @@
 <body>
     <form id="form1" runat="server">
         <div style="margin-left: 40px">
-            <strong><asp:Label ID="lblConfiguracion" runat="server" Text="Elija su configuracion" Font-Size="X-Large"></asp:Label></strong>
+            <strong><asp:Label ID="lblConfiguracion" runat="server" Text="Elija su configuracion" Font-Size="X-Large"></asp:Label>
+            <br />
+            <br />
+            <br />
+            <asp:Label ID="lblSubtitulo" runat="server" Text="Seleccione  cantidad de memoria:"></asp:Label>
+            <br />
+            <br />
+            </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:DropDownList ID="ddlGb" runat="server">
+            </asp:DropDownList>
         </div>
     </form>
 </body>
