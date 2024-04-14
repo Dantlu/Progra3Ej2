@@ -18,8 +18,11 @@
             <br />
             <br />
             </strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:DropDownList ID="ddlGb" runat="server">
+            <asp:DropDownList ID="ddlGb" runat="server" Height="31px" Width="126px">
             </asp:DropDownList>
+            <br />
+            <br />
+            <asp:Label ID="lblAccesorios" runat="server" Font-Bold="True" Text="Seleccione accesorios: "></asp:Label>
         </div>
     </form>
 </body>
