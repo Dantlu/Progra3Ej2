@@ -13,10 +13,16 @@
             <br />
             <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Usuario:&nbsp;
-            <asp:TextBox ID="txtUsuario" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txtUsuario" runat="server" Width="202px"></asp:TextBox>
+            <br />
             <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Clave:&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:TextBox ID="txtClave" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txtClave" runat="server" Width="202px"></asp:TextBox>
+            <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Button ID="lblvalidar" runat="server" Height="22px" Text="Validar" Width="80px" />
         </div>
     </form>
 </body>
