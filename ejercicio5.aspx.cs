@@ -11,7 +11,31 @@ namespace PR3_TP2
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-           
+            if (IsPostBack == false)
+            {
+                ddlGb.Items.Add("2GB");
+                ddlGb.Items.Add("4GB");
+                ddlGb.Items.Add("6GB");
+            }
+
+            float valor_de_memoria;
+
+            if(ddlGb.SelectedValue== "2GB")
+            {
+                valor_de_memoria = 200;
+            }
+            if (ddlGb.SelectedValue == "4GB")
+            {
+                valor_de_memoria = 375;
+            }
+            if (ddlGb.SelectedValue == "6GB")
+            {
+                valor_de_memoria = 500;
+            }
+
+            
         }
+
+
     }
 }

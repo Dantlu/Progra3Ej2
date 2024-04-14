@@ -27,8 +27,12 @@
         <asp:Label ID="lblTabla" runat="server"></asp:Label>
 
         <br />
+        <asp:Label ID="lblAviso2" runat="server"></asp:Label>
         <br />
         <asp:Label ID="lblaviso" runat="server"></asp:Label>
+
+        <br />
+&nbsp;<br />
 
     </form>
 </body>

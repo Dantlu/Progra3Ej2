@@ -18,6 +18,15 @@ namespace PR3_TP2
             }
         }
 
+        protected void lblvalidar_Click(object sender, EventArgs e)
+        {
+            bool usuario = false;
+            if (txtUsuario.Text == "claudio")
+            {
+                usuario = true;
+            }
 
+
+        }
     }
 }

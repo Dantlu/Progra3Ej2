@@ -16,16 +16,15 @@
             <asp:Label ID="lblSubtitulo" runat="server" Text="Seleccione cantidad de memoria:"></asp:Label>
             <br />
             <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:DropDownList ID="ddlGb" runat="server">
-                <asp:ListItem>2GB</asp:ListItem>
-                <asp:ListItem>4GB</asp:ListItem>
-                <asp:ListItem>6GB</asp:ListItem>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:DropDownList ID="ddlGb" runat="server" Width="157px">
             </asp:DropDownList>
-&nbsp;&nbsp;&nbsp;
+            <br />
             <br />
             </strong>
             <asp:Label ID="lblAccesorios" runat="server" Text="Seleccione accesorios:"></asp:Label>
+            <br />
+            <br />
         </div>
     </form>
 </body>

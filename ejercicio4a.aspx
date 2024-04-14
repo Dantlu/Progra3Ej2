@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:Button ID="lblvalidar" runat="server" Height="22px" Text="Validar" Width="80px" />
+            <asp:Button ID="lblvalidar" runat="server" Height="22px" Text="Validar" Width="80px" OnClick="lblvalidar_Click" />
         </div>
     </form>
 </body>
