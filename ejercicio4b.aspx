@@ -9,6 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:Label ID="lblMensajeEj4b" runat="server" Font-Bold="true"></asp:Label>
         </div>
     </form>
 </body>

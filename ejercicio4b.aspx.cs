@@ -11,7 +11,9 @@ namespace PR3_TP2
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            string Usuario;
+            Usuario = Request["txtUsuario"].ToString();
+            lblMensajeEj4b.Text = "Bienvenido a mi página Sr./a " + Usuario + ".";
         }
     }
 }

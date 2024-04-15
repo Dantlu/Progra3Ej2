@@ -14,7 +14,7 @@ namespace PR3_TP2
         {
             if (IsPostBack == false)
             {
-                txtClave.Attributes["type"] = "password";
+                txtClave.Attributes["type"] = "password"; 
             }
         }
 
@@ -27,6 +27,7 @@ namespace PR3_TP2
             }
             if (usuario == true)
             {
+                Server.Transfer("ejercicio4b.aspx");
                 Response.Redirect("ejercicio4b.aspx");
             }
             else
