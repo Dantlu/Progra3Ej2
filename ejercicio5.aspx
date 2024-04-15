@@ -30,11 +30,17 @@
                 <asp:ListItem>HD 500GB</asp:ListItem>
                 <asp:ListItem>Grabador DVD</asp:ListItem>
             </asp:CheckBoxList>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             <br />
             <asp:Button ID="btnCalcularPrecio" runat="server" OnClick="Button1_Click" Text="Calcular Precio" />
             <br />
             <br />
-            <asp:Label ID="lblPrecioFinal" runat="server"></asp:Label>
+            <strong><asp:Label ID="lblPrecioFinal" runat="server"></asp:Label></strong>
+            <br />
+            <br />
+            <strong>
+            <asp:RequiredFieldValidator ID="rqvMemoria" runat="server" ControlToValidate="ddlGb" InitialValue="Seleccione la memoria">Debe seleccionar una cantidad de memoria</asp:RequiredFieldValidator>
+            </strong>
             <br />
         </div>
     </form>

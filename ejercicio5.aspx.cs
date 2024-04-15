@@ -13,8 +13,10 @@ namespace PR3_TP2
         double valorAccesorios;
         protected void Page_Load(object sender, EventArgs e)
         {
+            ValidationSettings.UnobtrusiveValidationMode = UnobtrusiveValidationMode.None;
             if (IsPostBack == false)
             {
+                ddlGb.Items.Add("Seleccione la memoria");
                 ddlGb.Items.Add("2GB");
                 ddlGb.Items.Add("4GB");
                 ddlGb.Items.Add("6GB");
@@ -51,11 +53,21 @@ namespace PR3_TP2
             }
 
         }
+       
 
-
-        protected void Button1_Click(object sender, EventArgs e)
+       protected void Button1_Click(object sender, EventArgs e)
         {
-            lblPrecioFinal.Text = $"El precio final es de {valorAccesorios}";
+            if (cblAccesorios.SelectedIndex == -1)
+            {
+                lblPrecioFinal.Text = "Debe seleccionar al menos un accesorio.";
+            }
+            else
+            {
+                lblPrecioFinal.Text = $"El precio final es de {valorAccesorios}";
+            }
         }
+
+
+
     }
 }
