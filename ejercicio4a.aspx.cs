@@ -20,19 +20,26 @@ namespace PR3_TP2
 
         protected void lblvalidar_Click(object sender, EventArgs e)
         {
-            bool usuario = false;
-            if (txtUsuario.Text == "claudio" && txtClave.Text == "casas")
+            if (!string.IsNullOrEmpty(txtUsuario.Text) && !string.IsNullOrEmpty(txtClave.Text))
             {
-                usuario = true;
-            }
-            if (usuario == true)
-            {
-                Server.Transfer("ejercicio4b.aspx");
-                Response.Redirect("ejercicio4b.aspx");
+                bool usuario = false;
+                if (txtUsuario.Text == "claudio" && txtClave.Text == "casas")
+                {
+                    usuario = true;
+                }
+                if (usuario == true)
+                {
+                    Server.Transfer("ejercicio4b.aspx");
+                    Response.Redirect("ejercicio4b.aspx");
+                }
+                else
+                {
+                    Response.Redirect("ejercicio4c.aspx");
+                }
             }
             else
             {
-                Response.Redirect("ejercicio4c.aspx");
+                Response.Write("<script>alert('Por favor, verifica que ambos campos estén completos.');</script>");
             }
         }
     }
