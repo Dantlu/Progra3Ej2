@@ -25,6 +25,12 @@
             <asp:Label ID="lblAccesorios" runat="server" Text="Seleccione accesorios:"></asp:Label>
             <br />
             <br />
+            <asp:CheckBoxList ID="cblAccesorios" runat="server">
+                <asp:ListItem>Monitor LCD</asp:ListItem>
+                <asp:ListItem>HD 500GB</asp:ListItem>
+                <asp:ListItem>Grabador DVD</asp:ListItem>
+            </asp:CheckBoxList>
+            <br />
         </div>
     </form>
 </body>
