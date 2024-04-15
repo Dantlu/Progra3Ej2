@@ -31,10 +31,10 @@
                 <asp:ListItem>Grabador DVD</asp:ListItem>
             </asp:CheckBoxList>
             <br />
-            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
+            <asp:Button ID="btnCalcularPrecio" runat="server" OnClick="Button1_Click" Text="Calcular Precio" />
             <br />
             <br />
-            <asp:Label ID="Label1" runat="server"></asp:Label>
+            <asp:Label ID="lblPrecioFinal" runat="server"></asp:Label>
             <br />
         </div>
     </form>

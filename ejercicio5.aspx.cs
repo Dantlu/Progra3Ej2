@@ -55,6 +55,7 @@ namespace PR3_TP2
 
         protected void Button1_Click(object sender, EventArgs e)
         {
+            lblPrecioFinal.Text = $"El precio final es de {valorAccesorios}";
         }
     }
 }
