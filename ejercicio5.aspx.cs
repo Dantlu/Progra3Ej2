@@ -9,6 +9,8 @@ namespace PR3_TP2
 {
     public partial class ejercicio5 : System.Web.UI.Page
     {
+        float valor_de_memoria;
+        double valorAccesorios;
         protected void Page_Load(object sender, EventArgs e)
         {
             if (IsPostBack == false)
@@ -18,7 +20,7 @@ namespace PR3_TP2
                 ddlGb.Items.Add("6GB");
             }
 
-            float valor_de_memoria;
+            
 
             if(ddlGb.SelectedValue== "2GB")
             {
@@ -34,8 +36,26 @@ namespace PR3_TP2
             }
 
             
+
+            if(cblAccesorios.SelectedValue=="Monitor LCD")
+            {
+                valorAccesorios=2000.50;
+            }
+            if (cblAccesorios.SelectedValue == "HD 500GB")
+            {
+                valorAccesorios = 550.50;
+            }
+            if (cblAccesorios.SelectedValue == "Grabador DVD")
+            {
+                valorAccesorios = 1200;
+            }
+
         }
 
 
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            Label1.Text = (valor_de_memoria + valorAccesorios).ToString();
+        }
     }
 }

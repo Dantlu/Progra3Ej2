@@ -31,6 +31,11 @@
                 <asp:ListItem>Grabador DVD</asp:ListItem>
             </asp:CheckBoxList>
             <br />
+            <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Button" />
+            <br />
+            <br />
+            <asp:Label ID="Label1" runat="server"></asp:Label>
+            <br />
         </div>
     </form>
 </body>
