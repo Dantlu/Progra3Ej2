@@ -10,6 +10,11 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <br />
+            <br />
+            <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:Label ID="lblUsuarioInvalido" runat="server" Text="USUARIO INVALIDO INGRESO NO PERMITIDO"></asp:Label>
         </div>
     </form>
 </body>

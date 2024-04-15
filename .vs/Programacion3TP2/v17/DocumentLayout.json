@@ -1,25 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Nicole\\Desktop\\tp2grupo1\\Progra3Ej2\\",
+  "WorkspaceRootPath": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|c:\\users\\nicole\\desktop\\tp2grupo1\\progra3ej2\\ejercicio5.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio5.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|c:\\users\\mega\\desktop\\github\\utn\\utn-tusi\\utn\\1cuatrimestre\\lab3-utn-frgp\\programacion3tp2\\progra3ej2\\ejercicio4c.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio4c.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|c:\\users\\nicole\\desktop\\tp2grupo1\\progra3ej2\\ejercicio4b.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio4b.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|c:\\users\\nicole\\desktop\\tp2grupo1\\progra3ej2\\ejercicio4a.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio4a.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio4a.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|c:\\users\\nicole\\desktop\\tp2grupo1\\progra3ej2\\ejercicio4b.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio4b.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio4b.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|c:\\users\\mega\\desktop\\github\\utn\\utn-tusi\\utn\\1cuatrimestre\\lab3-utn-frgp\\programacion3tp2\\progra3ej2\\ejercicio5.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio5.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio4b.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio4b.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|c:\\users\\nicole\\desktop\\tp2grupo1\\progra3ej2\\ejercicio5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{1B4C7502-FD3A-4040-B871-A58CA6FA4FF9}|Programacion3TP2.csproj|solutionrelative:ejercicio5.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -30,28 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 202,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ejercicio4b.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Nicole\\Desktop\\tp2grupo1\\Progra3Ej2\\ejercicio4b.aspx.cs",
-              "RelativeDocumentMoniker": "ejercicio4b.aspx.cs",
-              "ToolTip": "C:\\Users\\Nicole\\Desktop\\tp2grupo1\\Progra3Ej2\\ejercicio4b.aspx.cs",
-              "RelativeToolTip": "ejercicio4b.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T14:23:24.57Z",
+              "DocumentIndex": 0,
+              "Title": "ejercicio4c.aspx",
+              "DocumentMoniker": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio4c.aspx",
+              "RelativeDocumentMoniker": "ejercicio4c.aspx",
+              "ToolTip": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio4c.aspx",
+              "RelativeToolTip": "ejercicio4c.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-15T14:40:09.691Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ejercicio4b.aspx",
-              "DocumentMoniker": "C:\\Users\\Nicole\\Desktop\\tp2grupo1\\Progra3Ej2\\ejercicio4b.aspx",
+              "DocumentMoniker": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio4b.aspx",
               "RelativeDocumentMoniker": "ejercicio4b.aspx",
-              "ToolTip": "C:\\Users\\Nicole\\Desktop\\tp2grupo1\\Progra3Ej2\\ejercicio4b.aspx",
+              "ToolTip": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio4b.aspx",
               "RelativeToolTip": "ejercicio4b.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -60,11 +64,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ejercicio5.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\Nicole\\Desktop\\tp2grupo1\\Progra3Ej2\\ejercicio5.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio5.aspx.cs",
               "RelativeDocumentMoniker": "ejercicio5.aspx.cs",
-              "ToolTip": "C:\\Users\\Nicole\\Desktop\\tp2grupo1\\Progra3Ej2\\ejercicio5.aspx.cs",
+              "ToolTip": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio5.aspx.cs",
               "RelativeToolTip": "ejercicio5.aspx.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAUwDgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,11 +77,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ejercicio5.aspx",
-              "DocumentMoniker": "C:\\Users\\Nicole\\Desktop\\tp2grupo1\\Progra3Ej2\\ejercicio5.aspx",
+              "DocumentMoniker": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio5.aspx",
               "RelativeDocumentMoniker": "ejercicio5.aspx",
-              "ToolTip": "C:\\Users\\Nicole\\Desktop\\tp2grupo1\\Progra3Ej2\\ejercicio5.aspx",
+              "ToolTip": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio5.aspx",
               "RelativeToolTip": "ejercicio5.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -86,15 +90,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ejercicio4a.aspx",
-              "DocumentMoniker": "C:\\Users\\Nicole\\Desktop\\tp2grupo1\\Progra3Ej2\\ejercicio4a.aspx",
+              "DocumentMoniker": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio4a.aspx",
               "RelativeDocumentMoniker": "ejercicio4a.aspx",
-              "ToolTip": "C:\\Users\\Nicole\\Desktop\\tp2grupo1\\Progra3Ej2\\ejercicio4a.aspx",
+              "ToolTip": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio4a.aspx",
               "RelativeToolTip": "ejercicio4a.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-04-15T14:21:01.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ejercicio4b.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio4b.aspx.cs",
+              "RelativeDocumentMoniker": "ejercicio4b.aspx.cs",
+              "ToolTip": "C:\\Users\\Mega\\Desktop\\GitHub\\UTN\\UTN-TUSI\\UTN\\1Cuatrimestre\\Lab3-UTN-FRGP\\Programacion3TP2\\Progra3Ej2\\ejercicio4b.aspx.cs",
+              "RelativeToolTip": "ejercicio4b.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:23:24.57Z",
               "EditorCaption": ""
             }
           ]
