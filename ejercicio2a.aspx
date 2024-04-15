@@ -11,11 +11,11 @@
     <form id="form1" runat="server">
         <div>
             Nombre:&nbsp;&nbsp;
-            <asp:TextBox ID="txtNombre" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txtNombre" runat="server" OnTextChanged="txtNombre_TextChanged"></asp:TextBox>
         </div>
         <p>
             Apellido:&nbsp;
-            <asp:TextBox ID="txtApellido" runat="server"></asp:TextBox>
+            <asp:TextBox ID="txtApellido" runat="server" OnTextChanged="Unnamed1_SelectedIndexChanged"></asp:TextBox>
         </p>
         <p>
             Ciudad:&nbsp;&nbsp;&nbsp;&nbsp;

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -26,19 +27,49 @@ namespace PR3_TP2
 
         protected void btnVerResumen_Click(object sender, EventArgs e)
         {
-            List<string> temasSeleccionados = new List<string>();
-
-            foreach (ListItem item in checkTemas_ejercicio2a.Items)
+            if(camposCompletos())
             {
-                if (item.Selected)
+                List<string> temasSeleccionados = new List<string>();
+
+                foreach (ListItem item in checkTemas_ejercicio2a.Items)
                 {
-                    temasSeleccionados.Add(item.Text);
+                    if (item.Selected)
+                    {
+                        temasSeleccionados.Add(item.Text);
+                    }
                 }
+
+                Session["TemasSeleccionados"] = temasSeleccionados;
+
+                Server.Transfer("ejercicio2b.aspx");
             }
+        }
 
-            Session["TemasSeleccionados"] = temasSeleccionados;
+        private bool camposCompletos()
+        {
+            bool camposCompletos=true;
 
-            Server.Transfer("ejercicio2b.aspx");
+            if (txtNombre.Text.Length == 0)
+            {
+                txtNombre.BackColor = System.Drawing.Color.GreenYellow;
+                 camposCompletos = false;
+            }
+            if (txtApellido.Text.Length == 0)
+            {
+                txtApellido.BackColor = System.Drawing.Color.GreenYellow;
+                camposCompletos = false;
+            }
+            return camposCompletos;
+        }
+
+        protected void txtApellido_TextChanged(object sender, EventArgs e)
+        {
+            txtApellido.BackColor = System.Drawing.Color.White;
+        }
+
+        protected void txtNombre_TextChanged(object sender, EventArgs e)
+        {
+            txtNombre.BackColor = System.Drawing.Color.White;
         }
     }
 }
