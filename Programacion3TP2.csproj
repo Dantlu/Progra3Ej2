@@ -73,6 +73,7 @@
     <Content Include="ejercicio3.aspx" />
     <Content Include="ejercicio4a.aspx" />
     <Content Include="ejercicio4b.aspx" />
+    <Content Include="ejercicio4c.aspx" />
     <Content Include="ejercicio5.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -118,6 +119,13 @@
     </Compile>
     <Compile Include="ejercicio4b.aspx.designer.cs">
       <DependentUpon>ejercicio4b.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ejercicio4c.aspx.cs">
+      <DependentUpon>ejercicio4c.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ejercicio4c.aspx.designer.cs">
+      <DependentUpon>ejercicio4c.aspx</DependentUpon>
     </Compile>
     <Compile Include="ejercicio5.aspx.cs">
       <DependentUpon>ejercicio5.aspx</DependentUpon>

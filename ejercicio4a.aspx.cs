@@ -29,7 +29,10 @@ namespace PR3_TP2
             {
                 Response.Redirect("ejercicio4b.aspx");
             }
-
+            else
+            {
+                Response.Redirect("ejercicio4c.aspx");
+            }
         }
     }
 }
