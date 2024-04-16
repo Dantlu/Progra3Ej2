@@ -10,29 +10,37 @@
 <body>
     <form id="form1" runat="server">
         <div style="margin-left: 40px">
-            <strong><asp:Label ID="lblConfiguracion" runat="server" Text="Elija su configuracion" Font-Size="X-Large"></asp:Label>
             <br />
             <br />
-            <asp:Label ID="lblSubtitulo" runat="server" Text="Seleccione cantidad de memoria:"></asp:Label>
+            <strong><asp:Label ID="lblConfiguracion" runat="server" Text="Elija su configuración" Font-Size="X-Large"></asp:Label>
             <br />
             <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-            <asp:DropDownList ID="ddlGb" runat="server" Width="157px">
+            <br />
+            <asp:Label ID="lblSubtitulo" runat="server" Text="Seleccione cantidad de memoria :"></asp:Label>
+            <br />
+            <br />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <asp:DropDownList ID="ddlGb" runat="server" Width="70px">
             </asp:DropDownList>
             <br />
             <br />
+            <br />
+            <br />
             </strong>
-            <asp:Label ID="lblAccesorios" runat="server" Text="Seleccione accesorios:"></asp:Label>
+            <strong><asp:Label ID="lblAccesorios" runat="server" Text="Seleccione accesorios:"></asp:Label></strong>
             <br />
             <br />
-            <asp:CheckBoxList ID="cblAccesorios" runat="server">
-                <asp:ListItem>Monitor LCD</asp:ListItem>
-                <asp:ListItem>HD 500GB</asp:ListItem>
-                <asp:ListItem>Grabador DVD</asp:ListItem>
-            </asp:CheckBoxList>
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <div style="margin-left: 40px;">
+                <asp:CheckBoxList ID="cblAccesorios" runat="server">
+                    <asp:ListItem>Monitor LCD</asp:ListItem>
+                    <asp:ListItem>HD 500GB</asp:ListItem>
+                    <asp:ListItem>Grabador DVD</asp:ListItem>
+                 </asp:CheckBoxList>
+            </div>
             <br />
-            <asp:Button ID="btnCalcularPrecio" runat="server" OnClick="Button1_Click" Text="Calcular Precio" />
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:Button ID="btnCalcularPrecio" runat="server" OnClick="Button1_Click" Text="Calcular Precio" Width="125px" />
+            <br />
+            <br />
             <br />
             <br />
             <strong><asp:Label ID="lblPrecioFinal" runat="server"></asp:Label></strong>
